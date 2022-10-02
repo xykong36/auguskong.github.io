@@ -6,7 +6,7 @@ email: xykdaily@gmail.com
 description: ""
 keyword: ""
 url: "https://kongxy.com/"              # your host, for absolute URL
-baseurl: "/xyk.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
