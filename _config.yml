@@ -57,7 +57,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "在路上"
-sidebar-avatar: /Users/xiangyukong/repos/huxblog-boilerplate/img/xy-selfie.jpg
+sidebar-avatar: https://github.com/Auguskong.png
 
 
 
